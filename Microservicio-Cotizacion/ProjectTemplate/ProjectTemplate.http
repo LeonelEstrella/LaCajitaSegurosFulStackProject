@@ -1,0 +1,6 @@
+@Cotizaciones_HostAddress = http://localhost:5003
+
+GET {{Cotizaciones_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
